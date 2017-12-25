@@ -208,7 +208,13 @@
   },
 
   "shotonmoment": {
-    "any": ["shotonmoment"]
+    "any": ["Moment Lens"]
+  },
+  "shotbypixel": {
+    "any": ["Pixel"]
+  },
+  "teampixel": {
+    "any": ["Pixel"]
   },
   "nofilter": {
     "any": ["nofilter"]
