@@ -1,0 +1,238 @@
+{
+  "traveling_uk" : {
+    "any": ["uk"]
+  },
+  "scenicbritain": {
+    "any": ["uk"]
+  },
+  "LifeoftheUK": {
+    "any": ["uk"]
+  },
+  "bbcbritain": {
+    "any": ["uk"]
+  },
+
+  "VisitEngland": {
+    "any": ["england"]
+  },
+  "visitlondon": {
+    "any": ["london"]
+  },
+  "timeoutlondon": {
+    "any": ["london"]
+  },
+  "theprettycities": {
+    "any": ["london"]
+  },
+
+  "scotland_greatshots": {
+    "any": ["scotland"]
+  },
+  "VisualsOfScotland": {
+    "any": ["scotland"]
+  },
+  "VisitScotland": {
+    "any": ["scotland"]
+  },
+  "lovescotland": {
+    "any": ["scotland"]
+  },
+  "traveling_scotland": {
+    "any": ["scotland"]
+  },
+  "instascotland": {
+    "any": ["scotland"]
+  },
+  "nationaltrustforscotland": {
+    "any": ["scotland"]
+  },
+  "thisisscotland": {
+    "any": ["scotland"]
+  },
+  "hiddenscotland": {
+    "any": ["scotland"]
+  },
+
+  "insta_sss": {
+    "all": ["scotland", "sun"]
+  },
+
+  "earthfocus": {
+    "any": ["outdoors"]
+  },
+  "lifeofadventure": {
+    "any": ["outdoors"]
+  },
+  "folkscenery": {
+    "any": ["outdoors"]
+  },
+  "theoutbound": {
+    "any": ["outdoors"]
+  },
+  "naturephotoportal": {
+    "any": ["outdoors"]
+  },
+  "discoverearth": {
+    "any": ["outdoors", "travel"]
+  },
+  "wonderful_places": {
+    "any": ["outdoors"]
+  },
+  "rural_love": {
+    "any": ["outdoors"]
+  },
+  "theglobewanderer": {
+    "any": ["outdoors"]
+  },
+  "discoverglobe": {
+    "any": ["outdoors"]
+  },
+  "fantastic_earth": {
+    "any": ["outdoors"]
+  },
+  "awesome_earth": {
+    "any": ["outdoors"]
+  },
+  "ourplanetdaily": {
+    "any": ["outdoors"]
+  },
+
+  "passionpassport": {
+    "any": ["travel"]
+  },
+  "weneedtogohere": {
+    "any": ["travel"]
+  },
+  "BestVacations": {
+    "any": ["travel"]
+  },
+  "worldtravelbook": {
+    "any": ["travel"]
+  },
+  "livefolk": {
+    "any": ["travel"]
+  },
+  "liveauthentic": {
+    "any": ["travel"]
+  },
+  "igshotz": {
+    "any": ["travel"]
+  },
+  "exploretocreate": {
+    "any": ["travel"]
+  },
+  "travelandlife": {
+    "any": ["travel"]
+  },
+  "huntgram": {
+    "any": ["travel"]
+  },
+  "instagoodmyphoto": {
+    "any": ["travel"]
+  },
+  "worldplaces": {
+    "any": ["travel"]
+  },
+  "ig_udog": {
+    "any": ["travel"]
+  },
+  "bestvacations": {
+    "any": ["travel"]
+  },
+  "TheBest_Capture": {
+    "any": ["travel"]
+  },
+  "theworldshotz": {
+    "any": ["travel"]
+  },
+  "beautifuldestinations": {
+    "any": ["travel"]
+  },
+  "worldtravelbook": {
+    "any": ["travel"]
+  },
+
+  "streets_oftheworld": {
+    "any": ["street"]
+  },
+  "ig_street": {
+    "any": ["street"]
+  },
+  "vivostreet": {
+    "any": ["street"]
+  },
+
+  "bnw_planet": {
+    "any": ["black & white"]
+  },
+  "photowall_bw": {
+    "any": ["black & white"]
+  },
+  "bwsquare": {
+    "any": ["black & white"]
+  },
+  "edits_bnw": {
+    "any": ["black & white"]
+  },
+  "flair_bw": {
+    "any": ["black & white"]
+  },
+  "ic_bw": {
+    "any": ["black & white"]
+  },
+  "blackandwhiteisworththefight": {
+    "any": ["black & white"]
+  },
+
+  "instagoodmyphoto": {
+    "any": ["good"]
+  },
+  "watchthisinstagood": {
+    "any": ["good"]
+  },
+  "justgoshoot": {
+    "any": ["good"]
+  },
+  "peoplescreatives": {
+    "any": ["good", "arty"]
+  },
+  "exploretocreate": {
+    "any": ["arty", "travel", "good"]
+  },
+
+  "igersmood": {
+    "any": ["mood"]
+  },
+  "monoart": {
+    "any": ["arty"]
+  },
+
+  "shotonmoment": {
+    "any": ["shotonmoment"]
+  },
+  "nofilter": {
+    "any": ["nofilter"]
+  },
+
+  "macro_spotlight": {
+    "any": ["macro"]
+  },
+  "macro_highlight": {
+    "any": ["macro"]
+  },
+  "smallworld_uc": {
+    "any": ["macro"]
+  },
+  "macroclique": {
+    "any": ["macro"]
+  },
+  "macro_vision": {
+    "any": ["macro"]
+  },
+  "macro_kings": {
+    "any": ["macro"]
+  },
+  "igbest_macros": {
+    "any": ["macro"]
+  }
+}
