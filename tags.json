@@ -96,6 +96,9 @@
   "ourplanetdaily": {
     "any": ["outdoors"]
   },
+  "osmaps": {
+    "any": ["outdoors"]
+  },
 
   "passionpassport": {
     "any": ["travel"]
